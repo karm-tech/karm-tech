@@ -69,14 +69,9 @@
 
 ---
 
-### GitHub Stats
+### GitHub Streak
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=karm-tech&show_icons=true&hide_border=true&theme=graywhite&title_color=2F81F7&icon_color=2F81F7&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karm-tech&layout=compact&hide_border=true&theme=graywhite&title_color=2F81F7&langs_count=8" alt="Top languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=karm-tech&hide_border=true&theme=graywhite&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Streak stats" />
 
